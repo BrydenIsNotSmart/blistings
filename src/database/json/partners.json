@@ -2,28 +2,11 @@
   "partners": [
     {
       "code": "",
-      "ownerID": "847555305843327029",
-      "icon": "https://cdn.glitch.com/4401a8d8-8e34-426e-8bd9-0435d984cd70%2FFlowBots.png",
-      "serverName": "FlowBots",
-      "website": "https://flowbots.net",
-      "description": "Find the perfect bot for you with FlowBots."
-    },
-    {
-      "code": "",
-      "ownerID": "732533099560173591",
-      "icon": "https://i.imgur.com/VOUKxvx.gif",
-      "serverName": "Meteor Galaxy",
-      "website": "https://discord.gg/9UxKxVEVNM",
-      "description": "A Galaxy Themed Community Server with tons of Daily Giveaways!"
-    },
-  
-     {
-      "code": "",
-      "ownerID": "771979863266951180",
-      "icon": "https://cdn.discordapp.com/icons/772804352564789287/a_7f0c835bff6919e6c1c74e58b0ac8679.gif",
-      "serverName": "My Hero Academia",
-      "website": "https://www.blistings.xyz/server/772804352564789287",
-      "description": "Mha based server but its not an anime server , its a general server"
+      "ownerID": "529815278456930314",
+      "icon": "https://www.blistings.xyz/img/logo.png",
+      "serverName": "BListings",
+      "website": "https://www.blistings.xyz",
+      "description": "Find the best Discord Bots for your server with BListings!"
     }
   ]
 }
